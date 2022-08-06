@@ -1,0 +1,55 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Reservation Details"
+    },
+    {
+      "type": "TextBlock",
+      "text": "<Name>"
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Nick",
+          "value": "<Nick>"
+        },
+        {
+          "title": "Birthdate",
+          "value": "<Birthdate>"
+        },
+        {
+          "title": "Flight from:",
+          "value": "<AirPortFrom>"
+        },
+        {
+          "title": "Flight to:",
+          "value": "<AirPortTo>"
+        },
+        {
+          "title": "Flight date:",
+          "value": "<StartDate>"
+        },
+        {
+          "title": "One way ticket:",
+          "value": "<OnWayFlight>"
+        },
+        {
+          "title": "Flight Class:",
+          "value": "<FlightClass>"
+        },
+        {
+          "title": "Flight Cost:",
+          "value": "<FlightCost>"
+        }
+      ],
+      "spacing": "Small"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

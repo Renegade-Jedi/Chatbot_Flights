@@ -1,0 +1,38 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Additional Reservation Details"
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Rent Car:",
+          "value": "<RentCar>"
+        },
+        {
+          "title": "Rent Book Number:",
+          "value": "<RentNumber>"
+        },
+        {
+          "title": "Car Size",
+          "value": "<CarSize>"
+        },
+        {
+          "title": "Car Class",
+          "value": "<CarClass>"
+        },
+        {
+          "title": "Car Insurance",
+          "value": "<CarInsurance>"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

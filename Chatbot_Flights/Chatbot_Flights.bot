@@ -1,0 +1,18 @@
+{
+    "name": "Chatbot_Flights",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "fd496530-7ad1-11e9-b4bc-bdde37d29379",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\tomasz.kaczor\\Desktop\\MY Folder\\ChatBot\\Chatbot_Flights\\Chatbot_Flights\\Chatbot_Flights.bot"
+}

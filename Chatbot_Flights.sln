@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbot_Flights", "Chatbot_Flights\Chatbot_Flights.csproj", "{F3A199A9-9139-445C-B317-319D3D0F1ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A199A9-9139-445C-B317-319D3D0F1ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A199A9-9139-445C-B317-319D3D0F1ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A199A9-9139-445C-B317-319D3D0F1ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A199A9-9139-445C-B317-319D3D0F1ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FB1A32-F123-4025-97B0-90735123A502}
+	EndGlobalSection
+EndGlobal

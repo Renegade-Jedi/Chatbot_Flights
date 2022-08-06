@@ -1,0 +1,156 @@
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - Copy\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\tomasz.kaczor\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights - To Reviev\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.Properties.Resources.resources
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\Chatbot_Flights Lesson 3\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.GenerateResource.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.Properties.Resources.resources
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.GenerateResource.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights #2\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.Properties.Resources.resources
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.GenerateResource.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Resources\additionalInformation.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Resources\reservationDetails.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.deps.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.runtimeconfig.dev.json
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.Properties.Resources.resources
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.GenerateResource.cache
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cache
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorAssemblyInfo.cs
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfoInputs.cache
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.AssemblyInfo.cs
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.RazorTargetAssemblyInfo.cache
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.dll
+C:\Users\Tomas\OneDrive\Pulpit\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.pdb
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csprojAssemblyReference.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Resources\additionalInformation.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Resources\reservationDetails.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\bin\Debug\netcoreapp2.1\Resources\reservationDetailsExtended.json
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.genruntimeconfig.cache
+C:\Users\Tomasz.Kaczor\OneDrive - Symphony Ventures Ltd\Desktop\MY Folder\DEV\ChatBot\FinalCB\Chatbot_Flights_Final_Task\Chatbot_Flights\obj\Debug\netcoreapp2.1\Chatbot_Flights.csproj.CoreCompileInputs.cache
